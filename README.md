@@ -1,0 +1,2 @@
+# DISSERTATION-Mapping-and-Simulation-of-LLM-centric-attack-vectors-in-smart-factory-ICS
+This research maps Large Language Model (LLM) integration across Industrial Control System (ICS) architectures and lifecycle phases, evaluates 50 LLM-centric cybersecurity attacks, assesses risks using an ICS-adapted DREAD framework, and simulates selected attacks to examine their potential impact on industrial functions.
